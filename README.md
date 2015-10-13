@@ -1,6 +1,6 @@
 # net_lib  
 net_lib(一个简单的基于tcp的windows环境下的网络库)  
-作者：flysnowxg emal:flysnowxg@qq.com
+作者：flysnowxg emal:flysnowxg@qq.com  
 项目地址：https://github.com/flysnowxg/net_lib/
   
 这是一个很简洁的网络库，暂时就命名为net_lib吧。  
